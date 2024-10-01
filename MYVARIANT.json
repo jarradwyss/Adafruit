@@ -9793,7 +9793,7 @@
           "architecture": "nrf52",
           "version": "1.6.2",
           "category": "Adafruit",
-          "url": "https://adafruit.github.io/arduino-board-index/boards/adafruit-nrf52-1.6.1.tar.bz2",
+          "url": "https://github.com/jarradwyss/Adafruit/blob/main/MYVARIANT.json",
           "archiveFileName": "adafruit-nrf52-1.6.1.tar.bz2",
           "checksum": "SHA-256:f56a669d52f39496adce93839ef822e48c903f8a2c380b0acbfbde29f3e8913b",
           "size": "20076272",
